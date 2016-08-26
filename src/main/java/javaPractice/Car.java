@@ -9,5 +9,6 @@ System.out.println("new Branch second");
 int i=0;
 System.out.println(i++);
 System.out.println("multibranch auto ");
+	System.out.println("check  auto build");
 	}
 }
