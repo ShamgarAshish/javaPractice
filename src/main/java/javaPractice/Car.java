@@ -13,6 +13,7 @@ System.out.println("empty");
 System.out.println("check git hook post commit");
 System.out.println("final check final 54544321");
 System.out.println("fifth");
+System.out.println();
 	}
 
 }
