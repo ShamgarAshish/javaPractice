@@ -9,6 +9,7 @@ System.out.println("hello car");
 System.out.println("commit check");
 System.out.println("branch first");
 System.out.println("checkAutoBuildmaster");
+System.out.println("empty");
 	}
 
 }
