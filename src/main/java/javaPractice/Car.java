@@ -11,7 +11,7 @@ System.out.println("branch first");
 System.out.println("checkAutoBuildmaster");
 System.out.println("empty");
 System.out.println("check git hook post commit");
-System.out.println("final check54321");
+System.out.println("final check54544321");
 	}
 
 }
