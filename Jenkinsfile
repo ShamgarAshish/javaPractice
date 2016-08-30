@@ -3,4 +3,7 @@
   env.PATH = "${tool 'M3'}/bin:${env.PATH}"
   checkout scm
   bat 'mvn clean package'
+ triggers{
+  githubPush()
+ }
  }
